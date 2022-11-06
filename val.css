@@ -1,0 +1,57 @@
+#vali{
+    height:1000px;
+    width: 500px;
+    border:2px red solid;
+}
+.rrr{
+    height:60px;
+    width:400px;
+    margin-top:40px;
+    margin-left:30px;
+    border: 2px red solid;
+    font-size:20px;
+    color: blue;
+}
+.eee{
+    font-size:20px;
+    color:blueviolet;
+    margin-left: 30px;
+    margin-top:40px;
+}
+.www{
+    font-size:20px;
+    color: rgb(20, 227, 144);
+    margin-left: 30px;
+    margin-top:40px;
+}
+.o{
+    margin-top: 40px;
+    color: aquamarine;
+    margin-left:30px;
+}
+.qqq{
+    margin-top: 40px;
+    font-size: 20px;
+    
+}
+.xxx{
+   height:30px; 
+   width: 60px;
+   color:rgb(7, 11, 11);
+   background-color: rgb(198, 198, 235);
+   cursor:pointer;
+   margin-left: 30px;
+}
+.xxx:hover{
+    background-color: black;
+    color: blue;
+}
+#yyy{
+    height:60px;
+    width:400px;
+    margin-top:40px;
+    margin-left:30px;
+    border: 2px red solid;
+    font-size:20px;
+    color: blue;
+}
